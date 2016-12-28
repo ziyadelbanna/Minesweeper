@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1482767405 source:d:\codeblocks\minesweeper_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<ctype.h>
+	"Welcomedisplay.h"
+	"generate.h"
+	"action_cell.h"
+	"print_grid.h"
+	"DFS.h"
+	"win.h"
+	"zero_fin.h"
+	"print_win.h"
+	"save_load.h"
+	"leaderboards.h"
+	"checkint.h"
+
+1482263085 d:\codeblocks\minesweeper_project\welcomedisplay.h
+
+1482141601 d:\codeblocks\minesweeper_project\generate.h
+
+1482253755 d:\codeblocks\minesweeper_project\action_cell.h
+
+1482768777 d:\codeblocks\minesweeper_project\print_grid.h
+
+1482145560 d:\codeblocks\minesweeper_project\dfs.h
+
+1482083225 d:\codeblocks\minesweeper_project\win.h
+
+1482085019 d:\codeblocks\minesweeper_project\zero_fin.h
+
+1482087153 d:\codeblocks\minesweeper_project\print_win.h
+
+1482251516 d:\codeblocks\minesweeper_project\save_load.h
+
+1482766726 d:\codeblocks\minesweeper_project\leaderboards.h
+
+1482768677 d:\codeblocks\minesweeper_project\checkint.h
+
