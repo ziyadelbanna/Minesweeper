@@ -161,9 +161,19 @@ void startgame()
         printf("\nEnter x: ");
         checkInt ();
         scanf("%d",&c_read);
+        while (c_read>coloumn||c_read<0)
+        {printf("please choose a coloumn number within the grid\n");
+        printf("Enter n: ");
+        checkInt();
+        scanf("%d",&c_read);}
         printf("Enter y: ");
         checkInt ();
         scanf("%d",&r_read);
+        while (r_read>row||r_read<0)
+        {printf("please choose a row number within the grid\n");
+        printf("Enter y: ");
+        checkInt();
+        scanf("%d",&r_read);}
         no_of_moves++;
         r_read--;
         c_read--;
@@ -216,10 +226,20 @@ void load_game()
         printf("\nEnter n: ");
         checkInt ();
         scanf("%d",&c_read);
+        while (c_read>coloumn||c_read<0)
+        {printf("please choose a coloumn number within the grid\n");
+        printf("Enter n: ");
+        checkInt();
+        scanf("%d",&c_read);}
         start=clock();
         printf("Enter y: ");
         checkInt ();
         scanf("%d",&r_read);
+        while (r_read>row||r_read<0)
+        {printf("please choose a row number within the grid\n");
+        printf("Enter y: ");
+        checkInt();
+        scanf("%d",&r_read);}
         no_of_moves++;
         r_read--;
         c_read--;
@@ -265,8 +285,18 @@ void load_game()
         printf("\ntime:%d  flags used:%d  question marks used:%d  number of moves:%d",time1,flag_no,question_no,no_of_moves);
         printf("\nEnter n: ");
         scanf("%d",&c_read);
+        while (c_read>coloumn||c_read<0)
+        {printf("please choose a coloumn number within the grid\n");
+        printf("Enter n: ");
+        checkInt();
+        scanf("%d",&c_read);}
         printf("Enter y: ");
         scanf("%d",&r_read);
+        while (r_read>row||r_read<0)
+        {printf("please choose a row number within the grid\n");
+        printf("Enter y: ");
+        checkInt();
+        scanf("%d",&r_read);}
         no_of_moves++;
         r_read--;
         c_read--;
