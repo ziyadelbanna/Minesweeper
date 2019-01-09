@@ -58,9 +58,6 @@
 		<Unit filename="save_load.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="welcomedisplay.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
 		<Unit filename="win.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>

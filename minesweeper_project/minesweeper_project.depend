@@ -17,6 +17,8 @@
 	"leaderboards.h"
 	"checkint.h"
 
+1482767405 h"
+
 1482263085 d:\codeblocks\minesweeper_project\welcomedisplay.h
 
 1482141601 d:\codeblocks\minesweeper_project\generate.h
@@ -38,4 +40,44 @@
 1482766726 d:\codeblocks\minesweeper_project\leaderboards.h
 
 1482768677 d:\codeblocks\minesweeper_project\checkint.h
+
+1547059291 source:/home/ziyad/Projects/c/Minesweeper/minesweeper_project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<ctype.h>
+	"Welcomedisplay.h"
+	"generate.h"
+	"action_cell.h"
+	"print_grid.h"
+	"DFS.h"
+	"win.h"
+	"zero_fin.h"
+	"print_win.h"
+	"save_load.h"
+	"leaderboards.h"
+	"checkint.h"
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/Welcomedisplay.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/generate.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/action_cell.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/print_grid.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/DFS.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/win.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/zero_fin.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/print_win.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/save_load.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/leaderboards.h
+
+1547059291 /home/ziyad/Projects/c/Minesweeper/minesweeper_project/checkint.h
 
